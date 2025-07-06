@@ -1,6 +1,5 @@
 [template]
 # 跳过替换的文件列表
-skip = [
-  "cliff.toml",
-]
+exclude = [""cliff.toml"]
+
 
